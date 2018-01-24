@@ -49,4 +49,4 @@ AnimatorのControllerに今作ったコントローラを入れ、これで完�
 ![](https://github.com/175B005/maya_unity2/blob/master/directionanim12.jpg?raw=true)
 1. 実行して確認してみてください。設定したように上下か左右に動き続けるようになったはずです。
 
-[前ページ](https://github.com/175B005/maya_unity) | [次へ]()
+[前ページ](https://github.com/175B005/maya_unity) | [次へ](https://github.com/175B005/maya_unity3)
