@@ -39,7 +39,7 @@ d13
 ｄ９
 1. アニメーション自体の設定が終わったので、今度は動かします。
 1. create< animator Controllerでコントローラーを作ります。
-ｄ１０
+![](https://raw.githubusercontent.com/175B005/maya_unity2/master/directionanim10.jpg)
 1. 作ったコントローラをダブルクリックすると、Animetorのウィンドウが出てくるので、  
 その中に、変更していたオブジェクトの中にあるアニメデータをドラッグ＆ドロップ  
 Animetorの中にいれます。すると勝手にEntryとつながるので、これでコントローラの完成です。
